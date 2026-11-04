@@ -6,7 +6,7 @@
   "description": "LLM routing and subagent delegation using Anthropic Claude models exclusively. Routes tasks to efficient Claude models (Haiku for fast tasks, Sonnet for code/quality, Opus for complex architecture) based on tier classification. Rejects prompt-injection patterns in task strings. Supports parallel multi-task splitting.",
   "author": "Austin",
   "license": "MIT",
-  "homepage": "https://github.com/RuneweaverStudios/agent-swarm-claude-only",
+  "homepage": "https://github.com/austindixson/agent-swarm-claude-only",
   "tags": [
     "routing",
     "orchestration",
